@@ -1,0 +1,31 @@
+{
+ "title": "PulseMiniV2.2",
+ "photos": [
+  "pulsemini_v22_1.jpg",
+  "pulsemini_v22_2.jpg"
+ ],
+ "focus": [
+  50,
+  50
+ ],
+ "bullets": [
+  "Arduino nano",
+  "ขับมอเตอร์ peak 30A ต่อข้าง รองรับมอเตอร์ N20 16GA N60 25GA",
+  "ช่อง Terminal ขนาดใหญ่รองรับกระแสสูง",
+  "เซนเซอร์วัดแรงดันไฟ คุมความเร็วมอเตอร์ได้แม่นยำเหมือนมี Stepdown",
+  "รองรับการต่อ Start Module",
+  "รองรับการต่อ Servo 2 ตัว หรือ ควบคุม Bushless motor",
+  "ช่อง Analog 8 ช่อง",
+  "มีการกรองกระแสอย่างดี ป้องกันการรีเซ็ต"
+ ],
+ "layout": "rows",
+ "bullet_size": 0.022,
+ "split": [
+  43,
+  57
+ ],
+ "vfocus": [
+  46.5,
+  66.4
+ ]
+}
